@@ -1,0 +1,21 @@
+{
+  "name": "discord-tickets",
+  "main": "main.js",
+  "author": "XzoneDev",
+  "version": "1.0.0",
+  "repository": "https://github.com/ZerioDev/DiscordTickets.git",
+  "description": "A cool Discord bot to manage tickets on your server",
+  "scripts": {
+    "start": "node main.js"
+  },
+  "engines": {
+    "node": "16.x"
+  },
+  "dependencies": {
+    "chalk": "^4.1.2",
+    "csyuptimer": "^0.0.1",
+    "discord.js": "^13.12.0",
+    "dotenv": "^10.0.0",
+    "moment": "^2.29.1"
+  }
+}
